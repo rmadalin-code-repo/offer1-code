@@ -1,0 +1,11 @@
+.filter {
+    align-items: center;
+    margin: 10px;
+    margin-left: 10px;
+}
+.text {
+    width: 150px;
+}
+.dropdown {
+    width: 100px;
+}
